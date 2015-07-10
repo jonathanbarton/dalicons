@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" >
+<font id="DAL_Sample">
+<font-face  font-family="DALSample" units-per-em="1000" ascent="750" descent="-250" font-style="normal" font-weight="400" font-stretch="normal" cap-height="700" x-height="500" underline-position="-75" underline-thickness="50" />
+<missing-glyph  horiz-adv-x="500" d="" />
+<glyph glyph-name="NULL" d="" />
+<glyph glyph-name="nonmarkingreturn" unicode="&#xd;" horiz-adv-x="500" d="" />
+<glyph glyph-name="space" unicode="&#x20;" horiz-adv-x="500" d="" />
+<glyph glyph-name="Email" unicode="&#xe005;" horiz-adv-x="591" d="M50 383 L542 383 L542 30 L50 30 L50 383 Z M486 352 L108 352 L297 184 L486 352 Z M511 60 L511 333 L297 143 L81 335 L81 60 L511 60 Z " />
+<glyph glyph-name="Add Asset" unicode="&#xe001;" horiz-adv-x="551" d="M500 480 L500 120 L410 120 L410 30 L50 30 L50 390 L140 390 L140 480 L500 480 Z M380 60 L380 120 L140 120 L140 360 L80 360 L80 60 L380 60 Z M470 150 L470 450 L170 450 L170 150 L470 150 Z M305 210 L305 285 L230 285 L230 315 L305 315 L305 390 L335 390 L335 315 L410 315 L410 285 L335 285 L335 210 L305 210 Z " />
+<glyph glyph-name="lightbox-asset details" unicode="&#xe002;" horiz-adv-x="592" d="M50 522 L542 522 L542 30 L50 30 L50 522 Z M511 61 L511 491 L81 491 L81 61 L511 61 Z M311 430 L311 399 L281 399 L281 430 L311 430 Z M342 153 L342 122 L250 122 L250 153 L281 153 L281 337 L250 337 L250 368 L311 368 L311 153 L342 153 Z " />
+<glyph glyph-name="Download hi-res" unicode="&#xe003;" horiz-adv-x="407" d="M357 210 L218 210 L218 91 L284 160 L306 139 L203 30 L100 139 L122 160 L188 90 L188 210 L50 210 L50 518 L357 518 L357 210 Z M80 241 L326 241 L326 487 L80 487 L80 241 Z M234 379 L234 456 L265 456 L265 379 L265 349 L265 272 L234 272 L234 349 L172 349 L172 272 L142 272 L142 349 L142 379 L142 456 L172 456 L172 379 L234 379 Z " />
+<glyph glyph-name="Download lo-res" unicode="&#xe004;" horiz-adv-x="346" d="M157 395 L157 303 L219 303 L219 273 L126 273 L126 395 L157 395 Z M296 211 L188 211 L188 92 L223 129 L246 109 L173 30 L100 109 L123 129 L158 92 L158 211 L50 211 L50 457 L296 457 L296 211 Z M81 426 L81 242 L265 242 L265 426 L81 426 Z " />
+</font>
+</svg>
